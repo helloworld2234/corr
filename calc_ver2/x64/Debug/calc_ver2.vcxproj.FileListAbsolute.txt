@@ -1,0 +1,4 @@
+D:\onedrive\PyCharm\StockProgram\C언어\calc_ver2\x64\Debug\calc_ver2.exe
+D:\onedrive\PyCharm\StockProgram\C언어\calc_ver2\x64\Debug\calc_ver2.pdb
+D:\onedrive\PyCharm\StockProgram\C\calc_ver2\x64\Debug\calc_ver2.exe
+D:\onedrive\PyCharm\StockProgram\C\calc_ver2\x64\Debug\calc_ver2.pdb
